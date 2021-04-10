@@ -1,0 +1,6 @@
+
+   - name: template
+     template:
+      src: templates/main.j2
+      dest: /etc/test.ini  
+
